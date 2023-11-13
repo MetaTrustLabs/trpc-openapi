@@ -1,6 +1,6 @@
 {
-  "name": "trpc-openapi",
-  "version": "1.2.0",
+  "name": "@metatrustlabs/trpc-openapi",
+  "version": "1.2.1",
   "description": "tRPC OpenAPI",
   "author": "James Berry <jb@jamesbe.com>",
   "private": false,
@@ -10,9 +10,9 @@
     "openapi",
     "swagger"
   ],
-  "homepage": "https://github.com/jlalmes/trpc-openapi",
-  "repository": "github:jlalmes/trpc-openapi",
-  "bugs": "https://github.com/jlalmes/trpc-openapi/issues",
+  "homepage": "https://github.com/metatrustlabs/trpc-openapi",
+  "repository": "github:metatrustlabs/trpc-openapi",
+  "bugs": "https://github.com/metatrustlabs/trpc-openapi/issues",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "workspaces": [
